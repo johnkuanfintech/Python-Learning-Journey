@@ -2,6 +2,7 @@
 
 W3 Schools
 https://www.w3schools.com/python/python_getstarted.asp
+
 In this course, I type Python code directly into the web browser using an online code editor.
 
 Python Tutorial
